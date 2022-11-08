@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PayCheck
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PayCheck\ here.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 31\ Jan\ 2019\r\n
+comment1.params=
+comment1.target=PayCheck()
+comment10.params=
+comment10.target=double\ getGrossPay()
+comment2.params=name\ pay\ hours
+comment2.target=PayCheck(java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=void\ calcGrossPay()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=pay
+comment5.target=void\ setPay(double)
+comment6.params=hours
+comment6.target=void\ setHours(double)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=double\ getPay()
+comment9.params=
+comment9.target=double\ getHours()
+numComments=11

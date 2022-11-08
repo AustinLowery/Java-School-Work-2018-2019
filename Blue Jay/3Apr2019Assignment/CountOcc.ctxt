@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CountOcc
+comment0.text=\r\n\ This\ class\ contains\ only\ the\ main\ method\r\n\ which\ accepts\ two\ command\ line\ arguments.\r\n\ The\ first\ is\ the\ name\ of\ a\ file\ and\ the\ second\ is\ a\ character.\r\n\ The\ method\ opens\ the\ file,\ counts\ the\ number\ of\ occurances\ of\ the\r\n\ character\ in\ the\ file\ and\ then\ prints\ this\ count.\r\n\ \r\n\ @author\ Lorrie\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

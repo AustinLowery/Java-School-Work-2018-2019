@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ Information\ and\ methods\ for\ a\ game\ die\ (dice).\r\n\ \r\n\ @author\ Lorrie\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Die()
+comment2.params=inNumberOfSides
+comment2.target=Die(int)
+comment3.params=
+comment3.target=void\ roll()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getFace()
+comment6.params=inDie
+comment6.target=boolean\ equals(Die)
+comment7.params=inDie
+comment7.target=int\ compareTo(Die)
+numComments=8

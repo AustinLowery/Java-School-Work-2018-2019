@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GoToCrowns
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GoToCrowns\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GoToCrowns()
+comment2.params=
+comment2.target=java.lang.String\ getRequestee()
+comment3.params=
+comment3.target=java.lang.String\ getRequesteeLoc()
+comment4.params=
+comment4.target=java.lang.String\ getTime()
+comment5.params=person
+comment5.target=void\ setRequestee(java.lang.String)
+comment6.params=location
+comment6.target=void\ setRequesteeLoc(java.lang.String)
+comment7.params=timeSet
+comment7.target=void\ setTime(java.lang.String)
+numComments=8

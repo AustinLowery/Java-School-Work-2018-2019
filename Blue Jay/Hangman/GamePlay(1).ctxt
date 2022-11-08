@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GamePlay
+comment0.text=\r\n\ The\ class\ GamePlay\ prompts\ the\ user\ for\ a\ category\ then\ picks\ a\ random\ \r\n\ line\ from\ that\ category.\ That\ line\ is\ then\ used\ as\ the\ word\ to\ guess\ in\ \r\n\ the\ hangman\ game.\r\n\ \r\n\ @author\ Austin\ Lowery\r\n\ @version\ 2/23/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=The\ main\ method\ prompts\ the\ user\ for\ a\ category\ then\ picks\ a\ random\ \r\n\ line\ from\ that\ category.\ That\ line\ is\ then\ used\ as\ the\ word\ to\ guess\ in\ \r\n\ the\ hangman\ game.\r\n@param\ args[]\ a\ list\ of\ strings\ sent\ when\ the\ program\ is\ started;\ this\ list\ goes\ unused\ in\ the\ program\r\n@throws\ IOException\r\n
+numComments=2

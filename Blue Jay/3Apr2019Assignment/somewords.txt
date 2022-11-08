@@ -1,0 +1,4 @@
+This is a file with many letters.
+I will look for some letters in this file.
+Then I will tell you how many times
+the letter is in this file.

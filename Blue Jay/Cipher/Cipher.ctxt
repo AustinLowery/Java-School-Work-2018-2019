@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cipher
+comment0.text=\r\n\ The\ class\ Cipher\ creates\ vignere\ ciphered\ text\r\n\ encoded\ by\ a\ string\ of\ letters\ along\ with\ a\ key.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 4\ Feb\ 2019\r\n
+comment1.params=input\ keyText\ operation
+comment1.target=Cipher(java.lang.String,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ output()
+comment3.params=textLetter\ keyLetter
+comment3.target=char\ vignereCharacter(char,\ char)
+numComments=4

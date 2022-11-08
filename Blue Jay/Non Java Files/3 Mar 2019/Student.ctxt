@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ An\ class\ to\ demsonstrate\ the\ equals(\ )\ and\ the\r\n\ compareTo(\ )\ methods,\r\n\ \r\n\ @author\ L.\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=inLast\ inFirst\ inID\ inGPA\ inCredits
+comment2.target=Student(java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=inG
+comment4.target=void\ setGPA(double)
+comment5.params=inCredits
+comment5.target=void\ setCredits(double)
+numComments=6

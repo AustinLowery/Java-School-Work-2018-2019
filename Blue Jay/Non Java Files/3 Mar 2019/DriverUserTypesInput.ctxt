@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DriverUserTypesInput
+comment0.text=\r\n\ The\ example\ using\ a\ loop\ and\ calling\ the\r\n\ no-args\ constructor\ created\ student\ objects\r\n\ with\ meaninless\ values\ for\ their\ fields\r\n\ \r\n\ @author\ L.\ Lehmann\r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

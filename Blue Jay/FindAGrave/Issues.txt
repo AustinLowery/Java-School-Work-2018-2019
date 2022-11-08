@@ -1,0 +1,8 @@
+* The file project fails to work due to the website returning insufficient permisions to execute the code
+	- java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.findagrave.com/cemetery/443574/memorial-search?firstName=&lastName=&page=x
+	  at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1894)
+	  at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	  at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263)
+	  at FindAGrave.noPhoto(FindAGrave.java:55)
+	  at FindAGrave.<init>(FindAGrave.java:39)
+	  at FindNoPhoto.main(FindNoPhoto.java:21)

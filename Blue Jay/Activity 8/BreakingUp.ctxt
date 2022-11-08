@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BreakingUp
+comment0.text=\r\n\ A\ simple\ demonstration\ of\ how\ to\ use\ the\ StringTokenizer\ class.\r\n\ The\ StringTokenizer\ class\ is\ located\ in\ the\ java.util\ package.\r\n\ It\ has\ three\ overloaded\ constructors.\ Look\ at\ the\ Java\ API\ documentation\r\n\ for\ a\ description\ of\ the\ three\ constructors\ and\ the\ available\ methods.\r\n\r\n\ @author\ L.\ Lehmann\r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

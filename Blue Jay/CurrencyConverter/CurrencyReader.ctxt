@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CurrencyReader
+comment0.text=\r\n\ This\ class\ is\ used\ to\ open\ a\ connection\ to\ a\ URL\ to\ \r\n\ obtain\ the\ current\ exchange\ rates\ for\ five\ type\ of\ world\r\n\ currencies.\ This\ can\ be\ edited\ to\ cover\ more\ exange\ rates,\ \r\n\ it\ is\ currently\ based\ on\ the\ layout\ of\ the\ website\ found\r\n\ at\ http\://www.x-rates.com/table/?from\=USD&amount\=1\r\n\ \r\n\ @author\ L.\ Lehmann\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=CurrencyReader()
+comment2.params=
+comment2.target=void\ exchangeRate()
+comment3.params=
+comment3.target=double[]\ getRateArray()
+comment3.text=\r\n\ This\ method\ returns\ a\ reference\ to\ the\ array\ of\ double\ that\r\n\ hold\ the\ currency\ exchange\ rates.\r\n\ @return\ a\ reference\ of\ doubles.\ Each\ element\ hold\ the\ value\ of\ an\ exchange\ rate\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ This\ method\ returns\ a\ textual\ representation\ of\ the\ object\r\n\ formatted\ to\ show\ the\ type\ of\ currency\ and\ the\ current\ exchange\ rate.\r\n\ nb-\ this\ is\ a\ review\ of\ using\ arrays\ in\ parallel.\r\n\ @return\ a\ string\ containing\ the\ currency\ types\ and\ exchange\ rates\ to\ US\ Dollars\r\n
+comment5.params=newCur
+comment5.target=void\ setAmount(java.lang.String)
+numComments=6

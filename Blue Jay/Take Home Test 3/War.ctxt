@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ Plays\ a\ game\ of\ War.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 1\ May\ 2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Runs\ the\ game\ of\ War\r\n@param\ String[]\ a\ list\ of\ string\ arguments\ passed\ in\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WriteFile
+comment0.text=\r\n\ \ This\ program\ is\ a\ simple\ example\ of\ how\ to\ write\ data\ to\ a\ file.\ \r\n\ \ Later\ in\ lecture\ we\ will\ discuss\ how\ to\ test\ to\ see\ if\ the\ file\ \r\n\ \ previously\ exists\ and\ how\ to\ append\ to\ \ rather\ than\ overwrite\ a\ file's\r\n\ \ contents.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

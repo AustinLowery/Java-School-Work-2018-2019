@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ReadFile
+comment0.text=\r\n\ THis\ is\ a\ simple\ example\ of\ how\ to\ read\ data\ from\ a\ text\ file.\r\n\ Before\ you\ run\ this,\ you\ must\ create\ a\ data\ file\ using\ Notepad.\r\n\ Open\ Notepad,\ write\ about\ five\ sentences.\ Save\ the\ file\ and\ write\r\n\ down\ where\ you\ save\ it\ and\ what\ you\ named\ it.\r\n\ \r\n\ Later\ in\ lecture\ we\ will\ discuss\ what\ happens\ if\ you\r\n\ type\ the\ name\ of\ a\ non-existent\ file\ in\ the\ constructor\ call.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FindNoPhoto
+comment0.text=\r\n\ Finds\ each\ grave\ without\ a\ photo.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 2/26/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Finds\ each\ grave\ without\ a\ photo\r\n@param\ args[]\ a\ list\ of\ strings\ that\ goes\ unused\ in\ the\ program\r\n@throws\ Exception\r\n
+numComments=2

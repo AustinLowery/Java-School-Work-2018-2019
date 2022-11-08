@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DuplicateCurrencyConverter
+comment0.text=\r\n\ The\ class\ of\ DuplicateCurrencyConverter\r\n\ converts\ money\ values\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 28\ Jan\ 2019\r\n
+comment1.params=
+comment1.target=DuplicateCurrencyConverter()
+comment2.params=inAmount\ inChoice
+comment2.target=DuplicateCurrencyConverter(double,\ char)
+comment3.params=inAmount\ inChoice
+comment3.target=void\ setAmount(double,\ char)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

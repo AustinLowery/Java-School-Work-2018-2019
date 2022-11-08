@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Delimiter
+comment0.text=\r\n\ Uses\ different\ methods\ from\ the\ StringTokenizer\ based\ on\ a\ typed\ input.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 3/11/2019\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=Utilizes\ StringTokenizer\ and\ Scanner\ to\ print\ out\ tokens\ and\ tokencounts\ of\ keyboard\ input.\r\n
+comment2.params=tokenizer
+comment2.target=void\ printToken(java.util.StringTokenizer)
+comment2.text=Prints\ the\ token\ count\ and\ each\ token\ in\ the\ tokenizer.\r\n@param\ tokenizer\ the\ StringTokenizer\ object\r\n
+comment3.params=tokenizer
+comment3.target=void\ printTextfileToken(java.util.StringTokenizer)
+comment3.text=Prints\ each\ token\ in\ the\ tokenizer.\r\n@param\ tokenizer\ the\ StringTokenizer\ object\r\n
+numComments=4

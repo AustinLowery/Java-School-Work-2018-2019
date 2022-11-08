@@ -1,0 +1,5 @@
+This is the first sentence in the data file.
+Be sure when you type the name of the file you do not forget the extension of txt.
+This is now the third.
+Do not forget to print your notes for the lab test.
+File stream must be closed.

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DriverHardCodedValues
+comment0.text=\r\n\ This\ is\ an\ example\ of\ creating\ an\ array\r\n\ of\ object\ references\r\n\ \r\n\ @author\ L.\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

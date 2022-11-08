@@ -1,0 +1,6 @@
+5
+Gone With the Wind,Some Southern Dude,20.33
+Alice in Wonderland,Lewis Carroll,7.99
+Charlotte's Web,Richard White,10.66
+Bud Not Buddy,Paul Curtis,12.40
+Harry Potter and the Philosopher's Stone,J.K Rowling,17.88

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Creates\ of\ a\ deck\ of\ cards\ that\ can\ be\ shuffled\ and\ drawn\ from.\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 1\ May\ 2019\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=The\ no-args\ constructor\ creates\ an\ organized\ deck\ of\ cards.\r\n
+comment2.params=
+comment2.target=Card\ getTopCard()
+comment2.text=Obtains\ a\ deep\ copy\ of\ the\ card\ on\ the\ top\ of\ the\ deck.\r\n@return\ Card\ the\ card\ on\ the\ top\ of\ the\ deck\r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=Switches\ the\ cards\ in\ two\ random\ placements\ in\ the\ deck\ 1,000\ times\ to\ fully\ shuffle\ the\ deck.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=Puts\ the\ card\ on\ the\ top\ of\ the\ deck\ at\ the\ bottom.\r\n
+numComments=5

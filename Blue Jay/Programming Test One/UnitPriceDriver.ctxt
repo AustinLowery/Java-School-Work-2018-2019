@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UnitPriceDriver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=The\ method\ main\ uses\ a\ Scanner\ and\ UnitPriceConverter\ object\ to\ ask\r\n\ the\ user\ for\ a\ price\ and\ weight\ to\ set\ so\ that\ price\ per\ pound\ and\ ounce\r\n\ of\ that\ item\ is\ returned.\r\n@param\ args[]\ a\ list\ of\ strings\ input\ when\ the\ method\ is\ started\ but\ goes\ unused\ \r\n
+numComments=2

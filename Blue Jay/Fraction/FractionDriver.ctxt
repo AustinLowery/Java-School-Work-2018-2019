@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FractionDriver
+comment0.text=\r\n\ Performs\ different\ operations\ on\ fractions\r\n\r\n\ @author\ Austin\ Lowery\r\n\ @version\ 3/13/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Fraction\ makeFraction()
+numComments=3
